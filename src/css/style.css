@@ -30,6 +30,10 @@ img {
     max-inline-size: 100%;
 }
 
+html {
+    font-family: "Roboto", sans-serif;
+}
+
 .container {
     position: relative;
     max-width: 1140px;
